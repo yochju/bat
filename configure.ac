@@ -410,4 +410,7 @@ AC_OUTPUT(
 	examples/advanced/referenceCounting/Makefile
 	examples/advanced/rooInterface/Makefile
 	examples/advanced/trialFunction/Makefile
+	doc/Makefile
+	doc/manual/Makefile
+	doc/ref-guide/Makefile
 )
